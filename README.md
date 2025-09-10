@@ -75,4 +75,4 @@ cd anurag-babal.github.io
 - **Portfolio:** [https://anurag-babal.github.io/](https://anurag-babal.github.io/)
 - **LinkedIn:** [https://www.linkedin.com/in/anurag-babal/](https://www.linkedin.com/in/anurag-babal/)
 - **GitHub:** [https://github.com/anurag-babal](https://github.com/anurag-babal)
-- **Email:** contact@alexdoe.com
+- **Email:** babalanurag2@gmail.com
